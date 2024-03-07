@@ -1,4 +1,4 @@
-![Better products, bigger futures.](https://github.com/inthepocket/.github/blob/main/profile/banner.png)
+<img src="https://github.com/inthepocket/.github/blob/main/profile/banner.png" alt="Better products, bigger futures." width="100%">
 
 Welcome to [In The Pocket](https://www.inthepocket.com/)'s GitHub repository! We're a **Digital Product Studio** spread over [6 locations](https://www.inthepocket.com/contact) throughout Europe, dedicated to crafting innovative solutions. 🇪🇺
 
